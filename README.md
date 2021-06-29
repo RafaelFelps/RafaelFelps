@@ -29,9 +29,12 @@
 [![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelFelps&layout=compact)](https://github-readme-stats.vercel.app/api?username=RafaelFelps)
 
 </div>
-    
+   
+<div style="width:50%">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelFelps&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelFelps&layout=compact)
 
+</div>
 </p>
 
 
