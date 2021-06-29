@@ -23,10 +23,10 @@
 </p>
 
 <h3>GitHub Stats</h3>
-<div style="display:flex;flex-direction:row">
     [![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelFelps)](https://github-readme-stats.vercel.app/api?username=RafaelFelps)
+
+    
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelFelps&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelFelps&layout=compact)
-</div>
 
 
 <h3>Where to find me</h3>
