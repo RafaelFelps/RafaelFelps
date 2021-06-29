@@ -24,13 +24,21 @@
 
 <h3>GitHub Stats</h3>
 <p>
-
+<div style="display:flex!important;">
+    
 [![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelFelps&layout=compact)](https://github-readme-stats.vercel.app/api?username=RafaelFelps)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelFelps&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelFelps&layout=compact)
 
+</div>
 </p>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 
 <h3>Where to find me</h3>
