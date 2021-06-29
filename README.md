@@ -24,7 +24,7 @@
 
 <h3>GitHub Stats</h3>
 
-[![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelFelps)](https://github.com/RafaelFelps/github-readme-stats)
+[![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelFelps)](https://github-readme-stats.vercel.app/api?username=RafaelFelps)
 
 
 <h3>Where to find me</h3>
