@@ -22,6 +22,11 @@
     <img height="20" alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 </p>
 
+<h3>GitHub Stats</h3>
+
+[![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelFelps)](https://github.com/RafaelFelps/github-readme-stats)
+
+
 <h3>Where to find me</h3>
 <p>
     <a href="https://github.com/RafaelFelps" target="_blank">
@@ -31,3 +36,4 @@
         <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a> 
 </p>
+
