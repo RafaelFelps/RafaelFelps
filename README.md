@@ -23,9 +23,9 @@
 </p>
 
 <h3>GitHub Stats</h3>
+
     [![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelFelps)](https://github-readme-stats.vercel.app/api?username=RafaelFelps)
 
-    
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelFelps&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelFelps&layout=compact)
 
 
