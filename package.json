@@ -1,0 +1,22 @@
+{
+  "name": "rafaelfelps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafaelFelps/RafaelFelps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RafaelFelps/RafaelFelps/issues"
+  },
+  "homepage": "https://github.com/RafaelFelps/RafaelFelps#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
