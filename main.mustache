@@ -23,7 +23,7 @@
 </p>
 
 <h3>GitHub Stats</h3>
-<div style="display:flex;justify-content: space-between;">
+<div style="display:flex!important;justify-content: space-between!important;">
 <div>
 
 [![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelFelps&layout=compact)](https://github-readme-stats.vercel.app/api?username=RafaelFelps)
