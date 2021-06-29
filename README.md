@@ -24,17 +24,17 @@
 
 <h3>GitHub Stats</h3>
 <div style="display:flex;justify-content: space-between;">
-    <div>
+<div>
 
 [![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelFelps&layout=compact)](https://github-readme-stats.vercel.app/api?username=RafaelFelps)
 
-    </div>
+</div>
 
-    <div>
+<div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelFelps&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelFelps&layout=compact)
 
-    </div>
+</div>
 
 </div>
 
