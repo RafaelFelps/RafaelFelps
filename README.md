@@ -1,5 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<p>Welcome to my profile! </br> I'm Rafael Silva, Fullstack developer from <img src="./src/brazil.png" width="13"/> <b>Brazil</b>, working at Consult Sistemas Inteligentes.</p>
+<p>Welcome to my profile! </br> I'm Rafael Silva, Fullstack developer from <img src="./src/brazil.png" width="13"/> <b>Brazil</b>, working at TOTVS.</p>
 
 <h3>Things I code with</h3>
 <p>
@@ -40,6 +40,9 @@
     </a> 
     <a href="https://www.linkedin.com/in/rafael-felipe-da-silva-37a782186/" target="_blank">
         <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a> 
+    <a href="mailto:rafaelfelps62@gmail.com" target="_blank">
+        <img alt="Github" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a> 
 </p>
 
