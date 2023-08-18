@@ -24,9 +24,6 @@
 
 <h3>GitHub Stats</h3>
 
-<a href="#">
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=RafaelFelps&layout=compact" />
-</a>
 <a href="">
   <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelFelps&layout=compact" />
 </a>
