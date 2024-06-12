@@ -22,13 +22,6 @@
     <img height="20" alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 </p>
 
-<h3>GitHub Stats</h3>
-
-<a href="">
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelFelps&layout=compact" />
-</a>
-
-
 
 <h3>Where to find me</h3>
 <p>
